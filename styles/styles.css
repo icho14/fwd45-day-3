@@ -10,9 +10,18 @@ h2 {
 	color: darkred;
 }
 
+nav li {
+	display: inline-block;
+}
 .warning {
 	color: #ff0000;
 }
+
+
+section.warning img{
+display: inline-block;
+}
+
 
 .bg-gray {
 	background-color: lightgray;
